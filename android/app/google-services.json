@@ -1,0 +1,34 @@
+{
+    "project_info":  {
+                         "project_number":  "830203783102",
+                         "project_id":  "lab7-uib",
+                         "storage_bucket":  "lab7-uib.firebasestorage.app",
+                         "firebase_url":  "https://lab7-uib-default-rtdb.firebaseio.com"
+                     },
+    "client":  [
+                   {
+                       "client_info":  {
+                                           "mobilesdk_app_id":  "1:830203783102:android:ed0ce2e8a9e8489ba33bef",
+                                           "android_client_info":  {
+                                                                       "package_name":  "com.example.untitled"
+                                                                   }
+                                       },
+                       "oauth_client":  [
+
+                                        ],
+                       "api_key":  [
+                                       {
+                                           "current_key":  "AIzaSyCiafxKEdNLbswOzz1FAQDbbDlhua0nRSU"
+                                       }
+                                   ],
+                       "services":  {
+                                        "appinvite_service":  {
+                                                                  "other_platform_oauth_client":  [
+
+                                                                                                  ]
+                                                              }
+                                    }
+                   }
+               ],
+    "configuration_version":  "1"
+}
